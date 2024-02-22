@@ -1,9 +1,3 @@
-# Laravel 9 & React js - Ecommerce application
-
-## Screenshots
-
-![preview img](/preview.png)
-
 ## Run Locally
 
 Clone the project
